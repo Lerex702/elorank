@@ -159,7 +159,7 @@ const Index = () => {
 
         {/* Footer Info */}
         <div className="text-center text-muted-foreground text-sm py-8">
-          <p>Powered by a dynamic Elo ranking system • Updates in real-time</p>
+          <p>Powered by Sceplix's Elo ranking system • Updates in real-time</p>
         </div>
       </div>
     </div>
